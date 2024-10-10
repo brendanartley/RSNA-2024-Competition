@@ -1,6 +1,6 @@
+timm==1.0.9
 pandas==2.2.2
 numpy==1.26.4
-timm==1.0.9
 tqdm==4.66.5
 pydicom==2.4.4
 opencv-python==4.10.0.84
