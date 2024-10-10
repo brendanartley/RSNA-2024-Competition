@@ -1,4 +1,4 @@
-# RSNA-2024-Competition
+## 2nd Place Solution
 
 Note: This repository contains part of the 2nd place solution in the RSNA 2024 Competition. For other parts of the solution, see the Kaggle write-up [here](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/discussion/539452).
 
