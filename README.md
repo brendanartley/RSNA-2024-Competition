@@ -1,6 +1,10 @@
 ## 2nd Place Solution
 
-Note: This repository contains part of the 2nd place solution in the RSNA 2024 Competition. For other parts of the solution, see the Kaggle write-up [here](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/discussion/539452).
+Note: This repository contains my part of the 2nd place solution in the RSNA 2024 Competition. 
+
+Yuji's part: [here](https://github.com/yujiariyasu/rsna_2024_lumbar_spine_degenerative_classification)  
+Ian's part: [here](https://github.com/i-pan/rsna-lspine)  
+Kaggle write-up: [here](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/discussion/539452)
 
 Thanks to my awesome teammates, I learned a lot from them and we worked hard for this result. Also, thanks to RSNA and Kaggle for hosting this competition. Although Kevin's models were not included in the ensemble, his discussions early on in the competition were very helpful.
 
